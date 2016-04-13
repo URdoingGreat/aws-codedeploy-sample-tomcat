@@ -1,6 +1,6 @@
 package com.amazonaws.labs.sampleapp;
 
-//craig to trigger rebuild
+//craig to trigger rebuild again
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
